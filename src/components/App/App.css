@@ -1,0 +1,28 @@
+#root {
+    height: 100vh;
+}
+
+.App {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 100%;
+}
+
+.Row {
+    display: flex;
+    margin-top: 10px;
+}
+
+.Action {
+    margin-top: 10px;
+}
+
+.Row-Remove,
+.Add {
+    margin-left: 10px;
+}
+
+.Row-Name {
+    min-width: 200px;
+}

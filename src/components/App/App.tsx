@@ -25,7 +25,7 @@ function App(props: AppProps) {
 
     return (
         <div className="App">
-            <h1>Список зелий:</h1>
+            <h1 className="App-Title">Список зелий:</h1>
             <div>
                 {potions.map((potionName, index) => {
                     return (

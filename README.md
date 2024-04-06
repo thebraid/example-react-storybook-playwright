@@ -6,6 +6,10 @@
 ### Запуск StoryBook
 `npm run storybook`
 
+### Запуск модульных тестов
+`npm run react-unit-tests` Запуск тестов с использованием react-testing-library
+`npm run unit-tests` Запуск модульных тестов
+
 ### Запуск тестов Hermione
 `npx hermione` Запуск всех hermione тестов
 

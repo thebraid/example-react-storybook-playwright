@@ -1,6 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import App from './App';
-import { fn } from '@storybook/test';
 
 const meta = {
   title: 'Example/App',

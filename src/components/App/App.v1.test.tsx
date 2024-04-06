@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import App from './App';
 import userEvent from '@testing-library/user-event';
+import App from './App';
 
 describe('Компонент App', () => {
     it('Отображаются названия зелий', () => {

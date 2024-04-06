@@ -8,7 +8,7 @@ module.exports = {
 
     sets: {
         desktop: {
-            files: 'src/tests/**/*.hermione.ts'
+            files: 'src/tests/hermione/*.hermione.ts'
         }
     },
 

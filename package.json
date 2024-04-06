@@ -25,7 +25,8 @@
     "playwright-test": "playwright test --ui",
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "unit": "jest src/components/App"
   },
   "eslintConfig": {
     "extends": [

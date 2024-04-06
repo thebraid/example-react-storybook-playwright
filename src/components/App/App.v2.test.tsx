@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import App from './App';
 import { AppObject } from '../../tests/pageObjects';
+import App from './App';
 
 describe('Компонент App (с использованием page objects)', () => {
     it('Отображаются названия зелий (page object)', () => {

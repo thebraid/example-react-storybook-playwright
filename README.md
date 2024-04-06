@@ -6,6 +6,10 @@
 ### Запуск StoryBook
 `npm run storybook`
 
+### Запуск тестов Hermione
+`npx hermione` Запуск всех hermione тестов
+`npx hermione gui` Запуск тестов в интерактивном режиме
+
 ### Запуск тестов Playwright
 `npx playwright test` Запуск всех тестов
 
